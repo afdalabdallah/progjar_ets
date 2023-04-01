@@ -1,6 +1,15 @@
-# progjar
+# Notes
 
+Segala file yang di edit terdapat pada folder progjar5
 
+### Multithread
+> server_thread_http.py
 
-Untuk instalasi laboratorium, bacalah readme.txt di direktori environment
+### Multithread + secure
+> server_thread_http_secure.py
 
+### Multiprocess
+> server_process_http.py
+
+### Multiprocess + secure
+> server_process_http_secure.py
